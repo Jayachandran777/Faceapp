@@ -3,3 +3,5 @@ test plan
 test case development
 test execution
 test closure
+log good bugs in qa envi validation
+send report for the qa envi validation
