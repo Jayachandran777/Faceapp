@@ -1,0 +1,5 @@
+requirement analysis
+test plan
+test case development
+test execution
+test closure
